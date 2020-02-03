@@ -1,0 +1,6 @@
+framework module Pods_testOCtoFlutter_testOCtoFlutterUITests {
+  umbrella header "Pods-testOCtoFlutter-testOCtoFlutterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
